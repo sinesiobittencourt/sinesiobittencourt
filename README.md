@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on GCP with TERRAFORM, ANSIBLE and DOCKER
 - 🌱 I’m currently learning DART for Android mobile
 - 👯 I’m looking to collaborate on open source as well any other projects written JavaScript and Python
-- 📫 How to reach me: [GitHub](https://github.com/sinesiobittencourt)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sinesiobittencourt)
 - 🌐 https://sinesio.com.br
 
 
