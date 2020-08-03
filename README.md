@@ -2,9 +2,9 @@
 ### Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 ### GDG Organizer | Specialist Linux System/SRE And Technology Evangelist
 
-- 🔭 I’m currently working on GCP with TERRAFORM, ANSIBLE - SHELL SCRIPT and PYTHON.
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on open source as well any other projects written C#/ASP.NET/JavaScript
+- 🔭 I’m currently working on GCP with TERRAFORM, ANSIBLE and DOCKER
+- 🌱 I’m currently learning DART for Android mobile
+- 👯 I’m looking to collaborate on open source as well any other projects written JavaScript and Python
 - 📫 How to reach me: [GitHub](https://github.com/sinesiobittencourt)
 - 🌐 https://sinesio.com.br
 
