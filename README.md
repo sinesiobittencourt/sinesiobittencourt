@@ -3,7 +3,7 @@
 ### GDG Organizer | Specialist Linux System/SRE And Technology Evangelist
 
 - 🔭 I’m currently working on GCP with TERRAFORM, ANSIBLE and DOCKER
-- 🌱 I’m currently learning DART for Android mobile
+- 🌱 I’m currently learning DART for Android mobile and IBMCloud 
 - 👯 I’m looking to collaborate on open source as well any other projects written JavaScript and Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sinesiobittencourt)
 - 🌐 https://sinesio.com.br
