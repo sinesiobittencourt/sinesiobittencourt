@@ -15,7 +15,4 @@
 
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=sinesiobittencourt&show_icons=true">
 
-<a href="https://github.com/sinesiobittencourt/shell_script">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sinesiobittencourt&repo=shell_script" />
-</a>
 
