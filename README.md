@@ -2,7 +2,7 @@
 ### Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 ### GDG Organizer | Specialist Linux System/SRE And Technology Evangelist
 
-- 🔭 I’m currently working on GCP with TERRAFORM, ANSIBLE and DOCKER
+- 🔭 I’m currently working on GCP with TERRAFORM, KUBERNETES, DOCKER and JENKINS. Eventually, I work with GitLab-CI.
 - 🌱 I’m currently learning DART for Android mobile and IBMCloud 
 - 👯 I’m looking to collaborate on open source as well any other projects written JavaScript and Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sinesiobittencourt)
