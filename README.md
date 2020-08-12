@@ -1,4 +1,4 @@
-![](name-of-giphy.gif)
+![](vwmu-header.gif)
 ### Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 ### GDG Organizer | Specialist Linux System/SRE And Technology Evangelist
 
