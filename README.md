@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on GCP with TERRAFORM, KUBERNETES, DOCKER and JENKINS. Eventually, I work with GitLab-CI.
 - 🌱 I’m currently learning DART for Android mobile and IBMCloud 
-- 👯 I’m looking to collaborate on open source as well any other projects written JavaScript and Python
+- 👯 I’m looking to collaborate on open source as well any other projects written Python 3
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sinesiobittencourt)
 - 🌐 https://sinesio.com.br
 
