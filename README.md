@@ -1,4 +1,4 @@
-<img align='left' src="https://gitlab.com/sinesiobittencourt/cucumber-ruby-mobile-2/-/blob/master/vwmu-header.gif">
+![](name-of-giphy.gif)
 ### Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 ### GDG Organizer | Specialist Linux System/SRE And Technology Evangelist
 
