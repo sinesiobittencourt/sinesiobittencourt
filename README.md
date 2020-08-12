@@ -8,7 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sinesiobittencourt)
 - 🌐 https://sinesio.com.br
 
-### My ![](https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png style="width: 60px;") for work GitLab-CI --> https://gitlab.com/sinesiobittencourt
+### My ![](https://cdn.iconscout.com/icon/free/png-256/gitlab-10-1175217.png) for work GitLab-CI --> https://gitlab.com/sinesiobittencourt
 
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=sinesiobittencourt&show_icons=true">
