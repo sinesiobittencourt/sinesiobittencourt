@@ -39,11 +39,11 @@
  </p>
   
   ### GitLab for work GitLab-CI
-<a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+<a href="https://gitlab.com/sinesiobittencourt" target="_blank" >
     <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/cicd.gif"  height="65" />
   </a>
-<br>
-Profile [GitLab](https://gitlab.com/sinesiobittencourt) 🌐 <br>
+
+Profile ![GitLab](https://gitlab.com/sinesiobittencourt)<p>
 
 
 
