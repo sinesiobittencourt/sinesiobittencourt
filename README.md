@@ -38,8 +38,13 @@
   </a> 
  </p>
   
+  ### GitLab for work GitLab-CI
+<a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/cicd.gif"  height="65" />
+  </a>
+<br>
+Profile [GitLab](https://gitlab.com/sinesiobittencourt) 🌐 <br>
 
-### My ![]() GitLab for work GitLab-CI --> https://gitlab.com/sinesiobittencourt
 
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=sinesiobittencourt&show_icons=true">
