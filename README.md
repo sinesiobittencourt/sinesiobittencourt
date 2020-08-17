@@ -9,7 +9,7 @@
 ### 📫 How to reach me? 
 
   ⦿ Visit my [Website](https://www.sinesio.com.br) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sinesiobittencourt) 💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sinesiobittencourt) <br>
   ⦿ Follow me on [Twitter](https://twitter.com/sinesio_) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:contato@sinesio.com.br)  <br>
   
