@@ -13,6 +13,29 @@
   ⦿ Follow me on [Twitter](https://twitter.com/sinesio_) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:contato@sinesio.com.br)  <br>
   
+  I mostly work with Golang, Python and Cloud-Native technologies. 
+  
+  <p float="left">
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/golang.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/k8s.gif"  height="75" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/terraform.gif" width="120" />
+  </a>
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/html-css-js.png" height="70" />
+  </a>
+ </p>
+  
   ### CSPs
   
  <p float="left">
