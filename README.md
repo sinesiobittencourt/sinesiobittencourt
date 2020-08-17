@@ -30,7 +30,7 @@
   </a>
  </p>
   
-  ### CSPs
+  ### CSPs - Cloud Services Platform
   
  <p float="left">
   <a href="#" target="_blank" >
