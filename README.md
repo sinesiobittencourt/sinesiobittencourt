@@ -13,6 +13,14 @@
   ⦿ Follow me on [Twitter](https://twitter.com/sinesio_) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:contato@sinesio.com.br)  <br>
   
+  ### CSPs
+  
+ <p float="left">
+  <a href="#" target="_blank" >
+    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/do.gif"  height="75" />
+  </a> 
+ </p>
+  
 
 ### My ![]() GitLab for work GitLab-CI --> https://gitlab.com/sinesiobittencourt
 
