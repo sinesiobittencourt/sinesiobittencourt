@@ -1,4 +1,4 @@
-![gif](https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/vwmu-header.gif)
+![gif](https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/vwmu-header.gif)
 ### Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 ### GDG Organizer | Specialist Linux System/SRE And Technology Evangelist
 
