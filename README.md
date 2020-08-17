@@ -35,7 +35,7 @@
  <p float="left">
   <a href="#" target="_blank" >
     <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/do.gif"  height="75" />
-  </a> <br>
+  </a>
   <a href="#" target="_blank" >
     <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/google-2Bcloud.gif"  height="75" />
   </a> 
