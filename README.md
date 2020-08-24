@@ -3,7 +3,6 @@
 ### GDG Organizer | Specialist Linux System/SRE And Technology Evangelist
 
 - 🔭 I’m currently working on GCP with TERRAFORM, KUBERNETES, DOCKER and JENKINS. Eventually, I work with GitLab-CI.
-- 🌱 I’m currently learning DART for Android mobile and IBMCloud 
 - 👯 I’m looking to collaborate on open source as well any other projects written Python 3
 
 ### 📫 How to reach me? 
@@ -43,6 +42,12 @@
     <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/IBMcloud.gif"  height="75" />
   </a> 
  </p>
+
+ ### 🌱 I’m Currently Learning:  
+  
+⦿ Dart and Flutter <br>
+⦿ IBMCloud <br>
+⦿ GitHub Action <br>
   
   ### GitLab for work GitLab-CI [My Profile](https://gitlab.com/sinesiobittencourt) <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/cicd.gif"  height="25" />
 <p>
