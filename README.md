@@ -51,7 +51,17 @@
   
   ### GitLab for work GitLab-CI [My Profile](https://gitlab.com/sinesiobittencourt) <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/cicd.gif"  height="25" />
 <p>
+  
+💻Deploy cloud applications simply and quickly across multiple countries. 🇦🇺🇺🇸🇧🇷🇨🇦🇬🇧🇳🇱 <br>
+🚀Cloud Computing in the Next Level! <br>
 
+https://lnkd.in/d7QHTn5
+<br>
+Get $100* FREE on signup! <br>
+
+
+
+Personal computerDeploy cloud applications simply and quickly across multiple countries. RocketCloud Computing in the Next Level! <br>
 
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=sinesiobittencourt&show_icons=true">
