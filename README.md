@@ -41,8 +41,11 @@
   <a href="#" target="_blank" >
     <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/IBMcloud.gif"  height="75" />
   </a> 
+   <a href="#" target="_blank" >
+    <img src="https://avatars1.githubusercontent.com/u/69915272?s=400&u=60a27bf4208471897fbed26bca371629dc3b8c41&v=4"  height="75" />
+  </a>
  </p>
-
+ 
  ### 🌱 I’m Currently Learning:  
   
 ⦿ Dart and Flutter <br>
