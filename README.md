@@ -59,8 +59,6 @@
 🚀Cloud Computing in the Next Level! <br>
 
 https://lnkd.in/d7QHTn5
-<br>
-Get $100* FREE on signup! <br>
 
 
 
