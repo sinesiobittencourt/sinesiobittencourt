@@ -1,6 +1,6 @@
 ![gif](https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/vwmu-header.gif)
 ### Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
-### GDG Organizer | Specialist Linux System/SRE And Technology Evangelist
+### GDG Organizer | Specialist Linux System/DevOps And Technology Evangelist
 ### I'm currently job as a Senior DevOps engineer at LetsCloud.io and DevOps engineer at ahgora 
 
 - 🔭 I’m currently working on GCP/AWS with TERRAFORM, KUBERNETES, DOCKER and JENKINS. Eventually, I work with GitLab-CI.
