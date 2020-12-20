@@ -2,7 +2,7 @@
 ### Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 ### GDG Organizer | Specialist Linux System/SRE And Technology Evangelist
 
-- 🔭 I’m currently working on GCP with TERRAFORM, KUBERNETES, DOCKER and JENKINS. Eventually, I work with GitLab-CI.
+- 🔭 I’m currently working on GCP/AWS with TERRAFORM, KUBERNETES, DOCKER and JENKINS. Eventually, I work with GitLab-CI.
 - 👯 I’m looking to collaborate on open source as well any other projects written Python 3
 
 ### 📫 How to reach me? 
@@ -51,9 +51,18 @@
 ⦿ Dart and Flutter <br>
 ⦿ IBMCloud <br>
 ⦿ GitHub Action <br>
-⦿ Golang for Terraform
+⦿ Golang for Terraform<br>
+⦿ Ansible<br>
+⦿ AWS<br>
+
+### Ongoing courses:  
+
+⦿ kubedev.io - Start: December 12, 2020 <br>
+⦿ linuxtips.io/product-page/hashicorp-expert - Start: December 5, 2020 <br>
+
+
   
-  ### GitLab for work GitLab-CI [My Profile](https://gitlab.com/sinesiobittencourt) <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/cicd.gif"  height="25" />
+### GitLab for work GitLab-CI [My Profile](https://gitlab.com/sinesiobittencourt) <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/cicd.gif"  height="25" />
 <p>
   
 💻Deploy cloud applications simply and quickly across multiple countries. 🇦🇺🇺🇸🇧🇷🇨🇦🇬🇧🇳🇱 <br>
