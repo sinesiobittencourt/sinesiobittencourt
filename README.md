@@ -51,6 +51,7 @@
 ⦿ Dart and Flutter <br>
 ⦿ IBMCloud <br>
 ⦿ GitHub Action <br>
+⦿ Golang for Terraform
   
   ### GitLab for work GitLab-CI [My Profile](https://gitlab.com/sinesiobittencourt) <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/cicd.gif"  height="25" />
 <p>
