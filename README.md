@@ -57,6 +57,7 @@
 ⦿ Golang for Terraform<br>
 ⦿ Ansible<br>
 ⦿ AWS<br>
+⦿ ELK Stack - Elastic search, Logstash e Kibana
 
 ### Ongoing courses:  
 
