@@ -118,7 +118,6 @@
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 
 </details>
-
 <br>
 
 ### Ongoing courses:  
