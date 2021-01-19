@@ -16,8 +16,6 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/sinesio.bittencourt)
 
   ⦿ Visit my [Website](https://www.sinesio.com.br) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sinesiobittencourt) <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/sinesio_) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:contato@sinesio.com.br)  <br>
   
   I mostly work with Golang, Python and Cloud-Native technologies. 
