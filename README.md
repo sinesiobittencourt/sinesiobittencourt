@@ -64,7 +64,6 @@
 
 ## 💼 Skills
 
-
 ![](https://img.shields.io/badge/Tools-go-%2300add8.svg?&style=flat&logo=go&logoColor=white&color=4AB197) 
 ![](https://img.shields.io/badge/Tools-ruby-%23cc342d.svg?&style=flat&logo=ruby&logoColor=white&color=4AB197) 
 ![](https://img.shields.io/badge/Tools-python%20-%2314354c.svg?&style=flat&logo=python&logoColor=white&color=4AB197) 
@@ -110,17 +109,15 @@
 ![](https://img.shields.io/badge/Tools-sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white&color=4AB197) 
 ![](https://img.shields.io/badge/Tools-redis-%23dc382d.svg?&style=flat&logo=redis&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-arch%20linux-%231793d1.svg?style=flat&logo=arch%20linux&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools--wireguard-%2388171a.svg?style=flat&logo=wireguard&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools--firefox-%23ff7139.svg?style=flat&logo=firefox&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools--ublock%20origin-%23800000.svg?style=flat&logo=ublock%20origin&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools--raspberry%20pi-%23c51a4a.svg?style=flat&logo=raspberry-pi&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools--arduino-%2300979d.svg?style=flat&logo=arduino&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Tools-arduino-%2300979d.svg?style=flat&logo=arduino&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-raspberry%20pi-%23c51a4a.svg?style=flat&logo=raspberry-pi&logoColor=white&color=4AB197) 
 
 <details>
 <summary>More Skills</summary>
