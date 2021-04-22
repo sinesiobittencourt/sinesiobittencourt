@@ -23,8 +23,7 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/sinesio.bittencourt)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsinesiobittencourt&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  ⦿ Visit my [Website](https://www.sinesio.com.br) 🌐 <br>
-  ⦿ Shoot Me an [Email](mailto:contato@sinesio.com.br)  <br>
+  ⦿ Visit my [Website](https://www.sinesio.com.br) 🌐<br>⦿ Shoot Me an [Email](mailto:contato@sinesio.com.br)<br>
   
   I mostly work with Golang, Python and Cloud-Native technologies. 
   
