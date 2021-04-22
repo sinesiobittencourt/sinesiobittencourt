@@ -4,7 +4,18 @@
 ### GDG Organizer | Specialist Linux System/DevOps And Technology Evangelist
 ### I'm currently job as a Senior DevOps engineer at [LetsCloud.io](http://bit.ly/2Wx0LnN) and DevOps engineer at [ahgora](http://bit.ly/3mCCyqZ) 
 
-- 🔭 I’m currently working on GCP/AWS with TERRAFORM, KUBERNETES, DOCKER and JENKINS. Eventually, I work with GitLab-CI.
+## 🔭 I’m currently working on 
+- GCP
+- AWS 
+- Terraform
+- Kubernetes + Compose = Kompose
+- Docker
+- GitLab-CI
+- Sonarqube 
+- Canary
+- Grafana/Prometheus/CloudWatch
+- Elasticsearch/Logstash/Logstash/Filebeat
+
 
 ### 📫 How to reach me? 
 
