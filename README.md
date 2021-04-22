@@ -74,6 +74,10 @@
 
 ⦿ kubedev.io - Start: December 12, 2020 <br>
 ⦿ linuxtips.io/product-page/hashicorp-expert - Start: December 5, 2020 <br>
+⦿ HashiCorp Terraform na Prática com Digital Ocean - Start: April 20, 2021 <br>
+⦿ Infrastructure Automation With Terraform - Start: April 20, 2021 <br>
+⦿ AWS Solutions Architect Associate 2021 with Practice Test - Start: April 27, 2021 <br>
+⦿ MongoDB - Start: April 25, 2021 <br>
 
 ## 💼 Skills
 
