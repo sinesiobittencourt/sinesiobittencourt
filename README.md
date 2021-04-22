@@ -1,10 +1,10 @@
 [![sinesio bittencourt's GitHub Banner](./assets/vwmu-header.gif)](https://sinesio.com.br) 
 
-### Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
-### GDG Organizer | Specialist Linux System/DevOps And Technology Evangelist
-### I'm currently job as a Senior DevOps engineer at [LetsCloud.io](http://bit.ly/2Wx0LnN) and DevOps engineer at [ahgora](http://bit.ly/3mCCyqZ) 
+# Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 
-## 🔭 I’m currently working on 
+## I'm currently job as a Senior DevOps engineer at [LetsCloud.io](http://bit.ly/2Wx0LnN) and DevOps engineer at [ahgora](http://bit.ly/3mCCyqZ) 
+
+### 🔭 I’m currently working on 
 - GCP
 - AWS 
 - Terraform
