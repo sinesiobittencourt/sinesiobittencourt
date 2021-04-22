@@ -68,7 +68,12 @@
 ⦿ Golang for Terraform<br>
 ⦿ Ansible<br>
 ⦿ AWS<br>
-⦿ ELK Stack - Elastic search, Logstash e Kibana
+⦿ ELK Stack - Elastic search, Logstash e Kibana<br>
+
+### Ongoing courses:  
+
+⦿ kubedev.io - Start: December 12, 2020 <br>
+⦿ linuxtips.io/product-page/hashicorp-expert - Start: December 5, 2020 <br>
 
 ## 💼 Skills
 
@@ -149,22 +154,9 @@
 </details>
 <br>
 
-### Ongoing courses:  
-
-⦿ kubedev.io - Start: December 12, 2020 <br>
-⦿ linuxtips.io/product-page/hashicorp-expert - Start: December 5, 2020 <br>
-
-
-  
+ 
 ### GitLab for work GitLab-CI [My Profile](https://gitlab.com/sinesiobittencourt) <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/cicd.gif"  height="25" />
 <p>
-  
-💻Deploy cloud applications simply and quickly across multiple countries. 🇦🇺🇺🇸🇧🇷🇨🇦🇬🇧🇳🇱 <br>
-🚀Cloud Computing in the Next Level! <br>
-
-https://lnkd.in/d7QHTn5
-
-
 
 Personal computerDeploy cloud applications simply and quickly across multiple countries. RocketCloud Computing in the Next Level! <br>
 
