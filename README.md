@@ -16,6 +16,7 @@
 - Grafana/Prometheus/CloudWatch
 - Elasticsearch/Logstash/Logstash/Filebeat
 - New Relic
+- Zabbix
 
 
 ### 📫 How to reach me? 
