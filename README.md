@@ -15,6 +15,7 @@
 - Canary
 - Grafana/Prometheus/CloudWatch
 - Elasticsearch/Logstash/Logstash/Filebeat
+- New Relic
 
 
 ### 📫 How to reach me? 
