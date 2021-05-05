@@ -61,6 +61,8 @@
   </a>
  </p>
  
+ 
+ 
  ### 🌱 I’m Currently Learning:  
   
 ⦿ Dart and Flutter <br>
@@ -70,6 +72,10 @@
 ⦿ Ansible<br>
 ⦿ AWS<br>
 ⦿ ELK Stack - Elastic search, Logstash e Kibana<br>
+⦿ Google Cloud - GCP <br>
+  <a href="https://www.qwiklabs.com/public_profiles/593e19fe-cee6-4a67-a785-94b855faf6dc/badges/299599" >
+    <img src="https://cdn.qwiklabs.com/oJ68YJxOAkrezBSWMLSdZpIYgr5Cu5mztWuM1n5in%2Fs%3D" height="120px" width="200px" />
+  </a>
 
 ### Ongoing courses:  
 
