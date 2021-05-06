@@ -87,6 +87,10 @@
 ⦿ AWS Solutions Architect Associate 2021 with Practice Test - Start: April 27, 2021 <br>
 ⦿ MongoDB - Start: April 25, 2021 <br>
 
+### Study Guide 2021
+
+⦿  <a href="https://github.com/SinesioBittencourt-StudyGuide" >Q1/2021</a>
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Tools-go-%2300add8.svg?&style=flat&logo=go&logoColor=white&color=4AB197) 
