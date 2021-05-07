@@ -30,26 +30,26 @@
   ### My Posts
   
   #### English
-  https://www.letscloud.io/community/continuously-deploy-hugo-with-github-actions-docker-and-letscloud
-  https://www.letscloud.io/community/how-to-install-golang-on-ubuntu-2004-or-2010
-  https://www.letscloud.io/community/how-to-install-grafana-740-on-ubuntu-2004-or-2010
-  https://www.letscloud.io/community/how-to-install-kubernetesk8s-and-docker-on-ubuntu-2004
-  https://www.letscloud.io/community/how-to-install-cockpit-web-console-on-ubuntu-2004-server-and-ubuntu-2010-server
-  https://www.letscloud.io/community/how-to-install-nodejs-on-ubuntu-2004-and-2010
-  https://www.letscloud.io/community/how-to-install-jenkins-on-ubuntu-2004
-  https://www.letscloud.io/community/how-to-install-and-configure-gitlab-on-ubuntu-20-04
-  https://www.letscloud.io/community/how-to-install-and-configure-cyberpanel-centos-7
-  https://www.letscloud.io/community/how-to-install-portainer
+  https://www.letscloud.io/community/continuously-deploy-hugo-with-github-actions-docker-and-letscloud <br>
+  https://www.letscloud.io/community/how-to-install-golang-on-ubuntu-2004-or-2010 <br>
+  https://www.letscloud.io/community/how-to-install-grafana-740-on-ubuntu-2004-or-2010 <br>
+  https://www.letscloud.io/community/how-to-install-kubernetesk8s-and-docker-on-ubuntu-2004 <br>
+  https://www.letscloud.io/community/how-to-install-cockpit-web-console-on-ubuntu-2004-server-and-ubuntu-2010-server <br>
+  https://www.letscloud.io/community/how-to-install-nodejs-on-ubuntu-2004-and-2010 <br>
+  https://www.letscloud.io/community/how-to-install-jenkins-on-ubuntu-2004 <br>
+  https://www.letscloud.io/community/how-to-install-and-configure-gitlab-on-ubuntu-20-04 <br>
+  https://www.letscloud.io/community/how-to-install-and-configure-cyberpanel-centos-7 <br>
+  https://www.letscloud.io/community/how-to-install-portainer <br>
   
   #### Portuguese
-  https://www.letscloud.io/community/como-instalar-e-configurar-o-cyberpanel-no-centos-7
-  https://www.letscloud.io/community/como-instalar-o-metabase-no-ubuntu-20-04-com-proxy-reverso-nginx
-  https://www.letscloud.io/community/como-instalar-o-gitlab-em-seu-ubuntu
-  https://www.letscloud.io/community/como-instalar-o-portainer
-  https://www.letscloud.io/community/como-instalar-linux-nginx-mysql-e-php-lemp-no-ubuntu-1804
-  https://www.letscloud.io/community/como-instalar-o-painel-de-controle-cwp-alternativa-do-cpanel-no-centos-7
-  https://www.letscloud.io/community/como-instalar-o-apache-web-server-no-centos-8
-  https://www.letscloud.io/community/letscloud-diretrizes-para-uma-boa-redacao
+  https://www.letscloud.io/community/como-instalar-e-configurar-o-cyberpanel-no-centos-7 <br>
+  https://www.letscloud.io/community/como-instalar-o-metabase-no-ubuntu-20-04-com-proxy-reverso-nginx <br>
+  https://www.letscloud.io/community/como-instalar-o-gitlab-em-seu-ubuntu <br>
+  https://www.letscloud.io/community/como-instalar-o-portainer <br>
+  https://www.letscloud.io/community/como-instalar-linux-nginx-mysql-e-php-lemp-no-ubuntu-1804 <br>
+  https://www.letscloud.io/community/como-instalar-o-painel-de-controle-cwp-alternativa-do-cpanel-no-centos-7 <br>
+  https://www.letscloud.io/community/como-instalar-o-apache-web-server-no-centos-8 <br>
+  https://www.letscloud.io/community/letscloud-diretrizes-para-uma-boa-redacao <br>
 
   I mostly work with Golang, Python and Cloud-Native technologies. 
   
