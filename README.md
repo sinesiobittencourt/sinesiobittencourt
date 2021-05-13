@@ -6,8 +6,9 @@
 
 ### 🔭 I’m currently working on 
 - GCP
-- AWS 
+- AWS
 - Terraform
+- GO e Python
 - Kubernetes + Compose = Kompose
 - Docker
 - GitLab-CI
@@ -17,6 +18,8 @@
 - Elasticsearch/Logstash/Logstash/Filebeat
 - New Relic
 - Zabbix
+- Apache NiFi
+- Apache Kafka
 
 
 ### 📫 How to reach me? 
