@@ -43,6 +43,7 @@
   https://www.letscloud.io/community/how-to-install-and-configure-gitlab-on-ubuntu-20-04 <br>
   https://www.letscloud.io/community/how-to-install-and-configure-cyberpanel-centos-7 <br>
   https://www.letscloud.io/community/how-to-install-portainer <br>
+  https://www.letscloud.io/community/how-to-install-mkdocs-on-linux-server-and-docker <br>
   
   #### Portuguese
   https://www.letscloud.io/community/como-instalar-e-configurar-o-cyberpanel-no-centos-7 <br>
