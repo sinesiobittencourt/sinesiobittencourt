@@ -15,7 +15,7 @@
 - Sonarqube 
 - Canary
 - Grafana/Prometheus/CloudWatch
-- Elasticsearch/Logstash/Logstash/Filebeat
+- Elasticsearch/Logstash/Filebeat
 - New Relic
 - Zabbix
 - Apache NiFi
