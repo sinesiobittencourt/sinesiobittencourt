@@ -121,6 +121,7 @@
 ⦿ AWS Solutions Architect Associate 2021 with Practice Test - Start: April 27, 2021 <br>
 ⦿ MongoDB - Start: April 25, 2021 <br>
 ### Q3-4/2021
+⦿ Google Cloud Fundamentals: Core Infrastructure - Start: August 2, 2021 <br>
 ⦿ Architecting with Google Kubernetes Engine - Start: August 25, 2021 <br>
 
 ### Study Guide 2021
