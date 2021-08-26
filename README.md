@@ -105,6 +105,10 @@
   <a href="https://www.qwiklabs.com/public_profiles/593e19fe-cee6-4a67-a785-94b855faf6dc/badges/299599" >
     <img src="https://cdn.qwiklabs.com/oJ68YJxOAkrezBSWMLSdZpIYgr5Cu5mztWuM1n5in%2Fs%3D" height="120px" width="200px" />
   </a>
+⦿ Google Cloud - GCP <br>
+  <a href="https://www.coursera.org/account/accomplishments/verify/E3DG28VUF3XP" >
+    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~E3DG28VUF3XP/CERTIFICATE_LANDING_PAGE~E3DG28VUF3XP.jpeg" height="120px" width="200px" />
+  </a>
 
 ### Ongoing courses:  
 
