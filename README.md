@@ -55,43 +55,6 @@
   https://www.letscloud.io/community/como-instalar-o-apache-web-server-no-centos-8 <br>
   https://www.letscloud.io/community/letscloud-diretrizes-para-uma-boa-redacao <br>
 
-  I mostly work with Golang, Python and Cloud-Native technologies. 
-  
-  <p float="left">
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/k8s.gif"  height="75" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/docker.gif"  height="80" /> 
-  </a>
-    <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/terraform.gif" width="120" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/cicd.gif"  height="65" />
-  </a>
- </p>
-
-  
-  ### CSPs - Cloud Services Platform
-  
- <p float="left">
-  <a href="#" target="_blank" >
-    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/do.gif"  height="75" />
-  </a>
-  <a href="#" target="_blank" >
-    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/google-2Bcloud.gif"  height="75" />
-  </a> 
-  <a href="#" target="_blank" >
-    <img src="https://github.com/sinesiobittencourt/sinesiobittencourt/blob/master/assets/IBMcloud.gif"  height="75" />
-  </a> 
-   <a href="https://www.letscloud.io/referral/TK9AJBANYI" target="_blank" >
-    <img src="https://avatars.githubusercontent.com/u/41346055?s=200&v=4"  height="75" />
-  </a>
- </p>
- 
- 
- 
  ### 🌱 I’m Currently Learning:  
   
 ⦿ Dart and Flutter <br>
