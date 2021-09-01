@@ -1,6 +1,6 @@
 [![sinesio bittencourt's GitHub Banner](./assets/vwmu-header.gif)](https://sinesio.com.br) 
 
-# Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
+# Hi folks 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 
 ## I currently work as a Specialist SRE at [Boa Vista SCPC](https://bit.ly/3yBxR6K) | Postgraduate in Cloud Computing Architecture and Project Specialist
 
