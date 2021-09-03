@@ -75,6 +75,9 @@ Previous work with DevOps:
   <a href="https://www.coursera.org/account/accomplishments/verify/E3DG28VUF3XP" >
     <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~E3DG28VUF3XP/CERTIFICATE_LANDING_PAGE~E3DG28VUF3XP.jpeg" height="120px" width="200px" />
   </a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/E3DKH6R78UMQ" >
+    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~E3DKH6R78UMQ/CERTIFICATE_LANDING_PAGE~E3DKH6R78UMQ.jpeg" height="120px" width="200px" />
+  </a>
 
 ### Ongoing courses:  
 
