@@ -23,7 +23,6 @@ Previous work with DevOps:
 - Zabbix
 - Apache NiFi
 - Apache Kafka
-
 - Rundeck
 - Dynatrace
 - Velero
