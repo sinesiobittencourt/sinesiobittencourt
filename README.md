@@ -9,12 +9,11 @@ Previous work with DevOps:
 - Senior DevOps engineer at [ahgora](http://bit.ly/3mCCyqZ)
 
 ### 🔭 I’m currently working on 
-- GCP
+- GCP (GKE)
 - AWS
-- Terraform
+- Terraform (Atlantis)
 - GO e Python
-- Kubernetes + Compose = Kompose
-- Docker
+- Docker (compose, swarm and Docker Machine )
 - GitLab-CI
 - Sonarqube 
 - Canary
@@ -25,6 +24,9 @@ Previous work with DevOps:
 - Apache NiFi
 - Apache Kafka
 
+- Rundeck
+- Dynatrace
+- Velero
 
 ### 📫 How to reach me? 
 
