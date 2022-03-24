@@ -2,7 +2,7 @@
 
 # Hi folks 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 
-## I currently work as a Specialist SRE at [Boa Vista SCPC](https://bit.ly/3yBxR6K) | Postgraduate in Cloud Computing Architecture and Project Specialist
+## I currently work as a Specialist SRE at [Boa Vista SCPC](https://bit.ly/3yBxR6K) | Postgraduate Degree, Cloud Computing Architecture and Project Specialist | Postgraduate Degree, Computer Software Engineering
 
 Previous work with DevOps: 
 - Senior DevOps engineer at [LetsCloud.io](http://bit.ly/2Wx0LnN)
