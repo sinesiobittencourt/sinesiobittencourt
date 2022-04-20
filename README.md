@@ -84,7 +84,7 @@ Previous work with DevOps:
 
 ⦿ kubedev.io - Start: December 12, 2020 <br>
 ⦿ linuxtips.io/product-page/hashicorp-expert - Start: December 5, 2020 <br>
-### Q1,Q2,Q3, Q4/2021
+### Q1,Q2,Q3,Q4/2021
 ⦿ Postgraduate Degree Cloud Computing Architecture and Project Specialist - Start: 2021 <br>
 ⦿ HashiCorp Terraform na Prática com Digital Ocean - Start: April 20, 2021 <br>
 ⦿ Infrastructure Automation With Terraform - Start: April 20, 2021 <br>
