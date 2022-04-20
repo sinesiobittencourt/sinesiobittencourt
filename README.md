@@ -84,20 +84,17 @@ Previous work with DevOps:
 
 ⦿ kubedev.io - Start: December 12, 2020 <br>
 ⦿ linuxtips.io/product-page/hashicorp-expert - Start: December 5, 2020 <br>
-### Q1/2021
+### Q1,Q2,Q3, Q4/2021
 ⦿ Postgraduate Degree Cloud Computing Architecture and Project Specialist - Start: 2021 <br>
-### Q2/2021
 ⦿ HashiCorp Terraform na Prática com Digital Ocean - Start: April 20, 2021 <br>
 ⦿ Infrastructure Automation With Terraform - Start: April 20, 2021 <br>
 ⦿ AWS Solutions Architect Associate 2021 with Practice Test - Start: April 27, 2021 <br>
 ⦿ MongoDB - Start: April 25, 2021 <br>
-### Q3-4/2021
 ⦿ Google Cloud Fundamentals: Core Infrastructure - Start: August 2, 2021 <br>
 ⦿ Architecting with Google Kubernetes Engine - Start: August 25, 2021 <br>
 
-### Study Guide 2021
-
-⦿  <a href="https://github.com/SinesioBittencourt-StudyGuide" >Q1/2021</a>
+### Study Guide 
+⦿  <a href="https://github.com/SinesioBittencourt-StudyGuide" >Study Guide</a>
 
 ## 💼 Skills
 
