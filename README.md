@@ -5,6 +5,7 @@
 ## I currently work as a Specialist SRE at [Boa Vista SCPC](https://bit.ly/3yBxR6K) | Postgraduate Degree, Cloud Computing Architecture and Project Specialist | Postgraduate Degree, Computer Software Engineering
 
 Previous work with DevOps: 
+- Specialist SRE at [Boa Vista SCPC](https://bit.ly/3yBxR6K)
 - Senior DevOps engineer at [LetsCloud.io](http://bit.ly/2Wx0LnN)
 - Senior DevOps engineer at [ahgora](http://bit.ly/3mCCyqZ)
 - Specialist SysAdmin at [HostGator](https://www.hostgator.com.br/)
