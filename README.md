@@ -7,6 +7,7 @@
 Previous work with DevOps: 
 - Senior DevOps engineer at [LetsCloud.io](http://bit.ly/2Wx0LnN)
 - Senior DevOps engineer at [ahgora](http://bit.ly/3mCCyqZ)
+- Specialist SysAdmin at [HostGator](https://www.hostgator.com.br/)
 
 ### 🔭 I’m currently working on 
 - GCP (GKE)
