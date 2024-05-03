@@ -4,6 +4,8 @@
 
 ## I currently work as a Specialist SRE at [Boa Vista SCPC](https://bit.ly/3yBxR6K) | Postgraduate Degree, Cloud Computing Architecture and Project Specialist | Postgraduate Degree, Computer Software Engineering
 
+### Lattes > https://lattes.cnpq.br/5723121740314383
+
 Previous work with DevOps: 
 - Specialist SRE at [Boa Vista SCPC](https://bit.ly/3yBxR6K)
 - Senior DevOps engineer at [LetsCloud.io](http://bit.ly/2Wx0LnN)
