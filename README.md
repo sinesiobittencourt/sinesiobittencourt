@@ -2,7 +2,7 @@
 
 # Hi folks 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 
-## I currently work as a Specialist SRE at [Boa Vista SCPC](https://bit.ly/3yBxR6K) | Postgraduate Degree, Cloud Computing Architecture and Project Specialist | Postgraduate Degree, Computer Software Engineering
+## I currently work as a Specialist SRE at [Equifax](https://bit.ly/44RO5dA) | Postgraduate Degree, Cloud Computing Architecture and Project Specialist | Postgraduate Degree, Computer Software Engineering And Postgraduate Degree, Information Security (InfoSec)
 
 ### Lattes > https://lattes.cnpq.br/5723121740314383
 
